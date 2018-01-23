@@ -1,0 +1,8 @@
+$brekpoint: 801px;
+
+
+@media (min-width: $brekpoint)  {
+  .header {
+    margin-bottom: 20px;
+  }
+}
