@@ -7,16 +7,12 @@ export default class Index extends React.Component {
       <div>
         <header className="header">
           <div className="container">
-            <div className="row">
-              <h1>Entity converter</h1>
-            </div>
+            <h1>Entity converter</h1>
           </div>
         </header>
         <main className="main-content">
           <div className="container">
-            <div className="row">
-              <Converter />
-            </div>
+            <Converter />
           </div>
         </main>
       </div>
