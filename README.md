@@ -1,7 +1,7 @@
 # [Entitiy converter][0]
 =====================
 
-Convert characters to entities
+Convert characters to csss values
 
 ### Browser support
 Chrome
@@ -13,4 +13,4 @@ npm install
 npm start
 npm run build
 ```
-[0]: http://celinebonin.com/enitity-converter/
+[0]: http://celinebonin.com/entity-converter/
