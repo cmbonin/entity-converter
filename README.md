@@ -1,7 +1,7 @@
 # [Entitiy converter][0]
 =====================
 
-Convert characters to csss values
+Convert characters to css values
 
 ### Browser support
 Chrome
